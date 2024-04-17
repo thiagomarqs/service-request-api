@@ -1,2 +1,2 @@
 # service-request-api
-An support ticket application built with Spring Boot
+Uma aplicação de requisição de serviços via chamados feita com Spring Boot.
